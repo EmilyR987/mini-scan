@@ -4,7 +4,7 @@
  
   🧩 Sobre o Projeto.
 
-Esse projeto tem o objetivo ajudar em um pentest fazendo uma varredura portas vulneraveis, voltado para alunos estudantes de cibersegurança.
+Esse projeto tem o objetivo ajudar em um pentest fazendo uma varredura em portas vulneraveis, voltado para alunos estudantes de cibersegurança.
 
 🛠️ Tecnologias Utilizadas
 - python 
